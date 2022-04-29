@@ -4,6 +4,37 @@
   
   
   <entry>
+    <title>win10笔记本，耳机拔出再插入没有声音</title>
+    <link href="/2022/04/29/win10%E7%AC%94%E8%AE%B0%E6%9C%AC%EF%BC%8C%E8%80%B3%E6%9C%BA%E6%8B%94%E5%87%BA%E5%86%8D%E6%8F%92%E5%85%A5%E6%B2%A1%E6%9C%89%E5%A3%B0%E9%9F%B3/"/>
+    <url>/2022/04/29/win10%E7%AC%94%E8%AE%B0%E6%9C%AC%EF%BC%8C%E8%80%B3%E6%9C%BA%E6%8B%94%E5%87%BA%E5%86%8D%E6%8F%92%E5%85%A5%E6%B2%A1%E6%9C%89%E5%A3%B0%E9%9F%B3/</url>
+    
+    <content type="html"><![CDATA[<h3 id="win10🎧-耳机-不出声问题"><a href="#win10🎧-耳机-不出声问题" class="headerlink" title="win10🎧(耳机)不出声问题"></a>win10🎧(耳机)不出声问题</h3><p>之前也一直遇到过，各种硬件设备正常，本身耳机播放声音也正常。但是中途把耳机拔掉后再把耳机插入电脑，耳机就发不出声音了，直接用电脑外音播放是没有问题的。就是耳机拔出一次后再插入就没了声音，通过重启系统后可以解决，变得有声音。但这不是长久之计，所以应该从根本上进行问题的解决：</p><p>我的解决方案如下，如有类似情况的可以操作试试：</p><ol><li>首先找到声音管理器设置（Realtek高清晰音频管理器）</li></ol><ul><li>可以通过任务栏系统图标的深橙色声音图标进入</li></ul><p><img src="/2022/04/29/win10%E7%AC%94%E8%AE%B0%E6%9C%AC%EF%BC%8C%E8%80%B3%E6%9C%BA%E6%8B%94%E5%87%BA%E5%86%8D%E6%8F%92%E5%85%A5%E6%B2%A1%E6%9C%89%E5%A3%B0%E9%9F%B3/realtek.png" alt=" 任务栏Realtek高清晰音频管理器图标 "></p><ul><li>通过win10搜索Realtek音频管理器</li></ul><p><img src="/2022/04/29/win10%E7%AC%94%E8%AE%B0%E6%9C%AC%EF%BC%8C%E8%80%B3%E6%9C%BA%E6%8B%94%E5%87%BA%E5%86%8D%E6%8F%92%E5%85%A5%E6%B2%A1%E6%9C%89%E5%A3%B0%E9%9F%B3/search.png" alt=" win10搜索功能搜索Realtek "></p><ol start="2"><li>然后进入Reaktek音频管理器进行如下设置:</li></ol><p><img src="/2022/04/29/win10%E7%AC%94%E8%AE%B0%E6%9C%AC%EF%BC%8C%E8%80%B3%E6%9C%BA%E6%8B%94%E5%87%BA%E5%86%8D%E6%8F%92%E5%85%A5%E6%B2%A1%E6%9C%89%E5%A3%B0%E9%9F%B3/set.png" alt=" 音频管理器相关设置 "></p><p>设置完成后耳机就可以有声音了，不用再重新进行系统的重启，如果二级还没有声音，尝试插拔一次，应该就没问题了。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>win10使用问题</category>
+      
+      <category>笔记本使用问题</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>win10</tag>
+      
+      <tag>笔记本</tag>
+      
+      <tag>声音</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>You mustn&#39;t be afraid to dream a little bigger!</title>
     <link href="/2022/04/27/You-mustn-t-be-afraid-to-dream-a-little-bigger/"/>
     <url>/2022/04/27/You-mustn-t-be-afraid-to-dream-a-little-bigger/</url>
